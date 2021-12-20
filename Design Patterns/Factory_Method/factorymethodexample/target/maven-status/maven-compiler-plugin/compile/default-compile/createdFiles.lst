@@ -1,0 +1,5 @@
+com\arosha\factorymethodexample\GetVehicleFactory.class
+com\arosha\factorymethodexample\Vehicle.class
+com\arosha\factorymethodexample\Car.class
+com\arosha\factorymethodexample\Van.class
+com\arosha\factorymethodexample\FactoryApplication.class
