@@ -21,17 +21,17 @@ To explain the scenario, about how these three blocks behave, first I wrote a sm
 ## Step One
 In this step, I created a class called MethodBehaviour and created the static block, the empty block and the constructor in an order.
 <p align="center">
-<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/method_behaviour_class.JPG" width="350" alt="Method Behaviour Class">
+<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/method_behaviour_class.JPG" width="450" alt="Method Behaviour Class">
 </p>
 
 Then I created a MethodCallMain class which creates the new instance of the class.
 <p align="center">
-<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/method_call_main_class.JPG" width="350" alt="Main Method Class">
+<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/method_call_main_class.JPG" width="450" alt="Main Method Class">
 </p>
 
 When I compile and run the above MethodCallMain class, it produces the following output.
 <p align="center">
-<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/result1.JPG" width="350" alt="First Result">
+<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/result1.JPG" width="450" alt="First Result">
 </p>
 
 When we carefully check the above result, we can see that first the static block is called, then the empty block is called and finally the constructor is called.
@@ -41,7 +41,7 @@ Then in this step, I'm changing the places of these three blocks.(Starting with 
 
 Then again I compile and run the MethodCallMain class, it produces the following output.
 <p align="center">
-<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/result2.JPG" width="350" alt="Second Result">
+<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/result2.JPG" width="450" alt="Second Result">
 </p>
 
 When we study the above result, we can see the same result we got as the Step One. At first, the static block is called, then the empty block and finally the constructor.
@@ -51,7 +51,7 @@ In this final step, I'm changing the places of these three blocks again.(This ti
 
 Then again, I compile and run the MethodCallMain class, it produces the following output.
 <p align="center">
-<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/result3.JPG" width="350" alt="Third Result">
+<img src="https://github.com/SriyanArosha/LearningWithKrish/blob/master/Method%20Behaviour/ResultImages/result3.JPG" width="450" alt="Third Result">
 </p>
 
 Again it produces the same output which we got in Step One and Two.
