@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c46437ae-6d81-41a1-aea2-4c835a85ecb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Practical 12/market-ui/src/main/java/com/arosha/marketcloud/marketui/controller/UIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 12/market-ui/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 12/market-ui/src/main/resources/templates/secure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 13/market-ui/src/main/java/com/arosha/marketcloud/marketui/config/AccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 13/market-ui/src/main/java/com/arosha/marketcloud/marketui/config/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 14/market-process-task/src/main/java/com/arosha/marketcloud/marketprocesstask/service/MarketProcessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 14/market-process-task/src/main/java/com/arosha/marketcloud/marketprocesstask/service/MarketProcessServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 14/market-process-task/src/main/java/com/arosha/marketcloud/marketprocesstask/service/MarketProcessTaskRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/arosha/marketcloud/customerservice/controller/CustomerServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/arosha/marketcloud/customerservice/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/arosha/marketcloud/customerservice/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/arosha/marketcloud/customerservice/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arosha/marketcloud/model/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arosha/marketcloud/model/customer/Loyalty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arosha/marketcloud/model/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arosha/marketcloud/model/productbuy/ProductBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-service/src/main/java/com/arosha/marketcloud/productservice/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-service/src/main/java/com/arosha/marketcloud/productservice/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-service/src/main/java/com/arosha/marketcloud/productservice/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-service/src/main/java/com/arosha/marketcloud/productservice/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/controller/ProductBuyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/model/DetailResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/model/SimpleResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/repository/ProductBuyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/service/ProductBuyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productbuy-service/src/main/java/com/arosha/marketcloud/productbuyservice/service/ProductBuyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 5/config-local/src/main/resources/config/service1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 5/config-local/src/main/resources/config/service2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 6/config-consumer/src/main/java/com/arosha/configconsumer/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 6/config-consumer/src/main/java/com/arosha/configconsumer/model/MemberProfileConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 6/config-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 6/config-consumer/src/main/resources/templates/mprofile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/marketcloudcommons/src/main/java/org/arosha/marketcloud/commons/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/marketcloudcommons/src/main/java/org/arosha/marketcloud/commons/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/profile-service/src/main/java/com/arosha/marketcloud/profileservice/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/profile-service/src/main/java/com/arosha/marketcloud/profileservice/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/profile-service/src/main/java/com/arosha/marketcloud/profileservice/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/profile-service/src/main/java/com/arosha/marketcloud/profileservice/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 7/profile-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 8/auth-server/src/main/java/com/arosha/marketcloud/auth/authserver/conf/AuthServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 8/auth-server/src/main/java/com/arosha/marketcloud/auth/authserver/conf/UserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/model/AuthUserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/model/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/repository/UserDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/java/com/arosha/marketcloud/authorizationserver/service/UserDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/resources/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical 9/authorization-server/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/main/java/com/arosha/studentapp/Stage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/main/java/com/arosha/studentapp/StageEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/main/java/com/arosha/studentapp/StudentAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/main/java/com/arosha/studentapp/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/main/java/com/arosha/studentapp/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practicals 1-3/student-app/src/test/java/com/arosha/studentapp/StudentAppApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="25JpgaMXDJghMvjMYFJZzvWxqMV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practical 13/marketcloudcommons" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c46437ae-6d81-41a1-aea2-4c835a85ecb6" name="Changes" comment="" />
+      <created>1645255158438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645255158438</updated>
+      <workItem from="1645255160438" duration="21000" />
+      <workItem from="1645784879253" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
